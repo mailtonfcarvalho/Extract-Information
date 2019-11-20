@@ -1,0 +1,10 @@
+atributo;valores
+marca;ford,chevrolet,volkswagen,renault,peugeot,fiat,chevrolet,kia,toyota,hyundai
+combustivel;gasolina,alcool,flex,diesel,gnv
+cambio;automatica,automatico,manual,man,auto,aut
+direcao;hidraulica,mecanica,dh,mecam
+ar condicionado;ar,ar cond,ac,ar condicionado,a/c
+cor;azul,branco,branca,prata,preto,vermelho,preta,azul,amarelo
+opcionais;radio,rodas liga leve,airbag,trava eletrica,alarme,sensor de re,vidros antifurto,vidro eletrico,central multimidia,rodas 16,som,rodas+som,banco de couro,banco em couro,Volante com regulagem,regulagem eletrica dos farois
+portas;4 portas,2 portas,duas portas,quatro portas,2p,4p
+outros; unico dono,pneus novos,carro revisado,impecavel,segundo dono,excelente estado,carro muito novo,conservado,estepe sem uso,carro esta 100%
